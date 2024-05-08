@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628854870739",
+    "project_id": "reserviopfe",
+    "storage_bucket": "reserviopfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628854870739:android:a1ce8ecdd52cce5d9e3a26",
+        "android_client_info": {
+          "package_name": "com.example.dashboardreservio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcvM9W2zicZB_wmV0j7bajVF59JaucYHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628854870739:android:8ca8679d064902409e3a26",
+        "android_client_info": {
+          "package_name": "com.example.reserviov1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcvM9W2zicZB_wmV0j7bajVF59JaucYHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
